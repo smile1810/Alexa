@@ -24,14 +24,14 @@ converting speech to text\
 1.  Install dependencies:
 
         pip install speechrecognition pyttsx3 pywhatkit wikipedia pyjokes 
-pip install pipwin 
-pipwin install pyaudio
-
-2.  Run the script:
+        pip install pipwin 
+        pipwin install pyaudio
+        
+3.  Run the script:
 
         python alexa.py
 
-3.  Speak commands starting with the wake word **"Alexa"**.
+4.  Speak commands starting with the wake word **"Alexa"**.
 
 ## Notes
 
