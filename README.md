@@ -23,7 +23,9 @@ converting speech to text\
 
 1.  Install dependencies:
 
-        pip install speechrecognition pyttsx3 pywhatkit wikipedia pyjokes
+        pip install speechrecognition pyttsx3 pywhatkit wikipedia pyjokes 
+pip install pipwin 
+pipwin install pyaudio
 
 2.  Run the script:
 
